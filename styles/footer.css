@@ -5,4 +5,11 @@ footer {
     height: 50px;
     display: flex;
     justify-content: center;
+    align-items: center;
+
+    background: #000;
+}
+
+h3 {
+    color: #fff;
 }
