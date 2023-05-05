@@ -57,7 +57,7 @@ card-list {
 }
 
 section card-list card {
-    border: 3px solid #fff;
+    border: 1px solid #fff;
 
     width: 30%;
     height: 100%;
@@ -91,10 +91,10 @@ section card-list card img {
 
 section card-list card h4 {
     font-family: Montserrat;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 800;
     letter-spacing: 6px;
-    margin: 0 2px;
+    margin: 0 33px;
 }
 
 section card-list card span {
